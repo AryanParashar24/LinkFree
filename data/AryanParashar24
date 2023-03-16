@@ -1,0 +1,26 @@
+{
+"name": "Aryan Parashar",
+  "type": "personal",
+  "bio": " 19 🧑‍💻 | DevOps 🥑 ,Open Source💜 & Web development enthusiast | Leaning  ML, Cloud native computing☁️ & MERN- Stack Development 🌐",
+  "avtar": "https://github.com/AryanParashar24.png" ,
+  "links": [
+  {
+  "name": "follow on Twitter",
+  "url": "https://github.com/AryanParashar24.png",
+  "icon": "SiTwitter"
+  }
+  
+  {
+  "name": "follow on Git-hub",
+  "url": "https://github.com/AryanParashar24.png",
+  "icon": "SiGithub"
+  }
+  
+  {
+  "name": "follow on Linkedin",
+  "url": "https://github.com/AryanParashar24.png",
+  "icon": "SiLinkedin"
+  }
+  
+  ]
+}
