@@ -3,10 +3,15 @@
   "bio": " 19 🧑‍💻 | DevOps 🥑 ,Open Source💜 & Web development enthusiast | Leaning  ML, Cloud native computing☁️ & MERN- Stack Development 🌐",
   "tags": [
     "Open Source",
-    "Cloud Computing",
+    "Cloud-Native Computing",
     "DevOps",
+    "GitHub",
+    "Technical Writing",
     "Web Development",
-    "Machine Learning"
+    "APIs",
+    "Machine Learning", 
+    "LLMs",
+    "Chaos-Engineering"
   ],
   "socials": [
     {
@@ -26,7 +31,7 @@
       "url": "https://hashnode.com/@AryanParashar"
     }
   ],
-  "links": [
+  "My Links": [
     {
       "name": "follow on Twitter",
       "url": "https://twitter.com/Aryan_2407",
@@ -47,5 +52,14 @@
       "url": "https://www.linkedin.com/in/aryan-parashar-6089331a9/",
       "icon": "SiLinkedin"
     }
+  ]
+  "Milestones":[
+    {
+      "name": "Postman🚀 API Student Expert",
+      "url": "https://badgr.com/public/assertions/6x9Ma9ZBTt-1yhi6mgjd1w"
+    }
+  ]
+  "Events":[
+    
   ]
 }
